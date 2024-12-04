@@ -1,0 +1,10 @@
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe.config
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.exe
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\bin\Debug\Mayin_Tarlasi.pdb
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.AssemblyReference.cache
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.Form1.resources
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.Properties.Resources.resources
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.GenerateResource.cache
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.exe
+C:\Users\Süleyman Sardoğan\source\repos\Mayin_Tarlasi\Mayin_Tarlasi\obj\Debug\Mayin_Tarlasi.pdb
